@@ -1,2 +1,26 @@
-# Clanker
-Clanker
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clanker</title>
+</head>
+<body>
+    <h1><i><b>CLANKER</b></i></h1>
+    <p><b>Main link to Clanker:</b></p>
+    <a href="https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https%3A%2F%2Ffiles.bpcontent.cloud%2F2025%2F09%2F09%2F13%2F20250909131006-BYCK3FRP.json&fbclid=IwY2xjawMx7oFleHRuA2FlbQIxMQABHvUKZwXDdWX9RxchZMKX21BzK4t1_42nkrIKBA-skK26tjULBrlSw_7oLN29_aem_2ZMoQmygGJX69xwoQbHjJw"><i><b>Clanker</b></i></a>
+    <p><i>FAQS and facts</i></p>
+    <p><i>What is our page about?</i></p>
+    <ul>
+        <li>Our page is dedicated to promoting mental health awareness and support through a mental health chatbot. The chatbot is designed to provide a safe space where users can share their thoughts, feelings, and concerns. It offers guidance, calming messages, and helpful resources to support emotional well-being. 
+            We believe that talking about mental health should be accessible, private, and stigma-free. It aims to encourage self-care, reduce stress, and remind those who will use it that they are not alone.
+            Through this project, we hope to use technology as a tool for compassion, awareness, and to balance positive and negative emotions, helping to people  towards a  better mental health.</li>
+        <li>Our page can help you when you feel lonely, sad, or in need of comfort. It can be a safe place for you to express what you are feeling or thinking without feeling the pressure of opening up. Also, we make sure that you can feel a sense of safety whenever using our page as it is our goal to ensure you that we can help you in the best of our abilities. 
+            Sometimes all we need is someone who stays without judgement, and that’s what our page is for. To stay, listen, and comfort you through high’s and low’s.</li>
+        <li>Mental health is a vital component of our overall well-being, encompassing our emotional, psychological, and social health. It influences how we think, feel, and act, and it determines how we handle stress, relate to others, and make choices. Just like physical health, mental health can fluctuate throughout our lives. It's not about being "happy" all the time, but about having the resilience to navigate life's challenges. 
+            Taking care of your mental health is a journey, and you don't have to do it alone. Many people experience struggles with anxiety, depression, or other mental health conditions, and reaching out for help is a sign of strength. This is where our AI chatbot comes in. It provides a safe, accessible, and non-judgmental space for you to explore your feelings, learn coping strategies, and discover resources that can support you. 
+            Think of it as a helpful companion that can assist you in taking those first steps toward understanding and nurturing your mental health, leading to a more fulfilling life.</li>
+    </ul>
+    <p>If you find some bugs on our sites, please let us know on our <a href="mailto:group2sciinpro@gmail.com">email</a>!</p>
+</body>
+</html>
